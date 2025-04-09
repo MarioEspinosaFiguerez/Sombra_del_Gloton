@@ -1,16 +1,11 @@
 fileFormatVersion: 2
-guid: 07001c25427e6054db7d4e57dba045b1
+guid: a7c3e2be3af446a468baa2bea066b0e3
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Pozo_Completo
-    second: {fileID: 2800000, guid: 4b606ca9b7f41a142b788715d3a941e2, type: 3}
+  externalObjects: {}
   materials:
-    materialImportMode: 1
+    materialImportMode: 2
     materialName: 0
     materialSearch: 1
     materialLocation: 1
