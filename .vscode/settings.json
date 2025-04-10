@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "La Sombra del Glotón.sln"
+    "dotnet.defaultSolution": "Sombra_del_Gloton.sln"
 }
